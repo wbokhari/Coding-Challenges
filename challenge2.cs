@@ -29,7 +29,6 @@ namespace ConsoleApp1
 
         private static int[] Find2ItemsWithLargestSumWithinLimit(int[] arr, int limit)
         {
-            arr = new int[] { 500, 700, 1000, 1400, 2000, 6000 };
             int[] indexOfMaxItems = new int[2];
             int max = 0;
             int lastItemIndex = arr.Length - 1;

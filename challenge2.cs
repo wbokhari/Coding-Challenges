@@ -77,7 +77,7 @@ namespace ConsoleApp1
 	// Instead, I am solving it O(n) by maintating two pointers. One is at start and second at end and we go through the array 
 	// till the pointers collide and return the indices
 
-	// You can run this by creating new console app and copying test.txt file with sample input in the same folder
+	// You can run this by creating new console app, pasting this code in the main CS fle and copying test.txt file with sample input in the same folder
 
 
 }
